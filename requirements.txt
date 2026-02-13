@@ -1,5 +1,6 @@
-kivy==2.2.1
+kivy==2.3.0
 plyer==2.1.0
-numpy==1.24.3
-matplotlib==3.7.1
+numpy==1.26.4
+matplotlib==3.9.0
 buildozer==1.5.0
+Cython==3.0.8
